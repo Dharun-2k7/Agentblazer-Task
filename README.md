@@ -174,3 +174,15 @@ MediDesk provides administrative healthcare information and
 appointment-request assistance. It is not a substitute for professional
 medical advice, diagnosis, treatment, or emergency services. For
 emergencies, call **112 or 108**.
+
+## Screenshots
+
+![Screenshot 1](pic1.png)
+
+![Screenshot 2](pic2.png)
+
+![Screenshot 3](pic3.png)
+
+![Screenshot 4](pic4.png)
+
+![Screenshot 5](pic5.png)
